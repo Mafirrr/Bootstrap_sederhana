@@ -1,0 +1,20 @@
+.jumbotron{
+    background: url(picture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 665px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.jumbotron{
+    text-shadow: 1px 1px 2px #fff;
+}
+.lead{
+    color: black;
+}
+.form-group{
+    color: white;
+    margin-right: 800px;
+}
